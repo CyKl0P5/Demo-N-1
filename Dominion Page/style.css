@@ -1,0 +1,67 @@
+@font-face {
+    font-family: futur;
+    scr: url(font/futur.ttf);
+}
+
+.h4{
+    font-family: futur;
+}
+
+.upnavbar{
+    background-color: rgb(236,234,230);
+    width: 100%;
+    height: 100%;
+}
+
+.mainimg{
+    margin-left: 28%;
+}
+
+.bodybck{
+    background-color: rgb(37,98,167);
+}
+
+.search-icon{
+    display: flex;
+    margin-left: 89%;
+    margin-bottom: 1%;
+}
+
+.downnavbar{
+    background-color: rgb(31,68,109);
+    width: 100%;
+    height: 100%;
+}
+
+.centerbar{
+    background-color: rgb(236,234,230);
+    width: 100%;
+    height: 100%;
+}
+
+.imgunb1{
+    align-items: left;
+    margin: 1%;
+}
+
+.upinput{
+    display: flex;   
+    margin-left: 78%;
+    text-align: right;
+    border: 1px transparent gray;
+    border-radius: 5px;
+}
+
+
+.leftboxdw{
+    display: flex;
+    margin: 4%;
+
+    width: 18%;
+    border: 2px solid gray;
+    background-color: white;
+}
+
+.dataimage{
+    margin: 3.5%;
+}
